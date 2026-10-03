@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'bydancer';
 export const SITE_DESCRIPTION = 'Welcome to my website!';
-export const SITE_BASE = '/placeholder/'
+export const SITE_BASE = '/bydancer/'
